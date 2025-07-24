@@ -1,0 +1,15 @@
+{
+  "name": "RILSA Intranet",
+  "short_name": "RILSA",
+  "start_url": "https://rilsach.sharepoint.com/sites/Intranet_RILSA",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#002855",
+  "icons": [
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
