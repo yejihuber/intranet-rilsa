@@ -1,7 +1,7 @@
 {
   "name": "RILSA Intranet",
   "short_name": "RILSA",
-  "start_url": "https://rilsach.sharepoint.com/sites/Intranet_RILSA",
+  "start_url": "/intranet-rilsa/redirect.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#002855",
