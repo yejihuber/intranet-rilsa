@@ -1,6 +1,6 @@
 {
   "name": "RILSA Intranet",
-  "short_name": "RILSA",
+  "short_name": "RILSA Intranet",
   "start_url": "/intranet-rilsa/redirect.html",
   "display": "standalone",
   "background_color": "#ffffff",
